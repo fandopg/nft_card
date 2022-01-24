@@ -1,0 +1,82 @@
+body, html {
+    height: 99%;
+    background-color: hsl(217, 54%, 11%);
+    color: hsl(215, 51%, 70%);
+    font-family: 'Outfit', sans-serif;
+}
+.main {
+    display: flex;
+    height: 100%;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+.card {
+    display: flex;
+    height: 600px;
+    width: 350px;
+    background-color: hsl(216, 50%, 16%);
+    border-radius: 15px;
+    flex-direction: column;
+}
+.image {
+    height: 60%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.image img {
+    height: 300px;
+    border-radius: 15px;
+}
+.info {
+    height: 35%;
+    width: 100%;
+}
+.data {
+    padding: 0 25px;
+}
+.data p:first-child{
+    font-size: x-large;
+    font-weight: 500;
+    color: aliceblue;
+    margin: 0;
+}
+.data p:last-child{
+    font-size: large;
+}
+.value {
+    display: flex;
+    padding: 0 25px;
+    justify-content: space-between;
+}
+.value p:first-child {
+    color: hsl(178, 100%, 50%);
+}
+.value p img {
+    vertical-align: -3px;
+}
+hr {
+    color: hsl(215, 32%, 27%);
+    width: 300px;
+    border: 1px solid;
+}
+.maker {
+    padding: 0 25px;
+    display: flex;
+    width: 65%;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.avatar img {
+    height: 30px;
+    vertical-align: -8px;
+    border: 1px solid aliceblue;
+    border-radius: 50%;
+}
+span {
+    color: aliceblue;
+}
+
