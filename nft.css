@@ -1,14 +1,15 @@
-body,
-html {
-  height: 99%;
+body {
   background-color: hsl(217, 54%, 11%);
   color: hsl(215, 51%, 70%);
   font-family: "Outfit", sans-serif;
 }
 .main {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
   display: flex;
-  height: 100%;
-  width: 100%;
   justify-content: center;
   align-items: center;
 }
