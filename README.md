@@ -3,4 +3,4 @@ Ejercicio de NFT
 
 Github pages:
 
-https://github.com/fandopg/kodemia_nft
+https://fandopg.github.io/kodemia_nft/
