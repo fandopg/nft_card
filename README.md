@@ -1,6 +1,6 @@
-# kodemia_nft
+# NFT_Card
 Ejercicio de NFT
 
 Github pages:
 
-https://fandopg.github.io/kodemia_nft/
+https://fandopg.github.io/nft_card/
